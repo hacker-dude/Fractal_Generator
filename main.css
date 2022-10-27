@@ -1,0 +1,11 @@
+#my-canvas {
+    border: 1px solid gray;
+    margin-top:200px;
+}
+#my-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 80vh;
+}
